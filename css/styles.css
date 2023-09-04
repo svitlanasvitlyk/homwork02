@@ -131,6 +131,7 @@ button {
 }
 .team-title {
   color: var(--color-main-dark);
+  background-color: var(--color-main);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
