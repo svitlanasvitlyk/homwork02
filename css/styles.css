@@ -105,14 +105,14 @@ button {
   letter-spacing: 0.02em;
 }
 .solution-text {
-  color: var(--color-secondary-dark)
+  color: var(--color-secondary-dark);
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em; 
+  letter-spacing: 0.02em;
 }
 
 .team-sctn {
-  background-color: var(--color-secondary)
+  background-color: var(--color-secondary);
 }
 .team-heading {
   font-size: 36px;
@@ -123,7 +123,7 @@ button {
 .team-title {
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.2; 
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
@@ -161,7 +161,7 @@ button {
 }
 .logo-footer {
   color: var(--color-detail);
-  font-family: "Raleway",sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
