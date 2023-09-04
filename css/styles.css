@@ -61,13 +61,15 @@ button {
 .nav-bar:focus {
   color: var(--color-hover);
 }
+.address {
+  font-style: normal;
+}
 .address-list {
   color: var(--color-secondary-dark);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
 }
 
 .hero {
