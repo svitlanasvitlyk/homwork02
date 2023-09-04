@@ -61,17 +61,27 @@ button {
 .nav-bar:focus {
   color: var(--color-hover);
 }
-.address {
+.address-list {
   font-style: normal;
 }
-.address-list {
+.mail-text {
   color: var(--color-secondary-dark);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.mail-text:hover,
+.mail-text:focus{
+  color: var(--color-hover)
+}
 
+.tel-text {
+  color: var(--color-secondary-dark);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 .hero {
   background-color: var(--color-main-dark);
 }
