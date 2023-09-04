@@ -139,6 +139,7 @@ button {
 }
 
 .team-text {
+  background-color: var(--color-main);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
