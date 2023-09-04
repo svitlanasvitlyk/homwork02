@@ -9,7 +9,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  color: var(--color-secondary-dark;
+  color: var(--color-main-dark);
   background-color: var(--color-main);
 }
 
@@ -65,6 +65,7 @@ button {
   font-style: normal;
 }
 .address-list {
+  color: var(--color-secondary-dark);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -100,13 +101,13 @@ button {
   background-color: var(--color-hover);
 }
 .solution-title {
-  color: var(--color-main-dark);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .solution-text {
+  color: var(--color-secondary-dark);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -116,14 +117,12 @@ button {
   background-color: var(--color-secondary);
 }
 .team-heading {
-  color: var(--color-main-dark);
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
 }
 .team-title {
-  color: var(--color-main-dark);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -131,12 +130,12 @@ button {
 }
 
 .team-text {
+  color: var(--color-secondary-dark);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .portfolio-heading {
-  color: var(--color-main-dark);
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -146,7 +145,6 @@ button {
 }
 
 .portfolio-title {
-  color: var(--color-main-dark);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -154,6 +152,7 @@ button {
 }
 
 .portfolio-text {
+  color: var(--color-secondary-dark);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
