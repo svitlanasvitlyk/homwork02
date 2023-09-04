@@ -116,9 +116,12 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
+/*Our Team*/
 .team-sctn {
   background-color: var(--color-secondary);
+}
+.team-list {
+  background-color: var(--color-main);
 }
 .team-heading {
   color: var(--color-main-dark);
@@ -131,7 +134,6 @@ button {
 }
 .team-title {
   color: var(--color-main-dark);
-  background-color: var(--color-main);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -139,11 +141,11 @@ button {
 }
 
 .team-text {
-  background-color: var(--color-main);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+/*Portfolio*/
 .portfolio-heading {
   color: var(--color-main-dark);
   font-size: 36px;
